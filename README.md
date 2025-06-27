@@ -1,5 +1,5 @@
 # 💾About Me:
-I am currently a second-year Computer Science student at Eduvos, aspiring to be a cybersecurity specialist.
+Dedicated cybersecurity student interested in networking, system security, and ethical hacking. Experienced in configuring VLANs, implementing secure network designs, and analysing threats using tools like Packet Tracer, Wireshark, and Linux security utilities. Passionate about cybersecurity, actively engaging in CTF challenges, ethical hacking labs, and security research. I am currently pursuing a BSc in Computer Science, and I am determined to achieve Honors in Cybersecurity and once working towards industry certifications such as CompTIA Security+ and CEH. Eager to apply theoretical knowledge in a hands-on environment and contribute to cybersecurity initiatives through internships or entry-level roles.
 
 
 ## 🌐 Socials:
